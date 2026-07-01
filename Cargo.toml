@@ -76,3 +76,7 @@ path = "examples/holarchy_pattern.rs"
 [[example]]
 name = "blackboard_pattern"
 path = "examples/blackboard_pattern.rs"
+
+[[example]]
+name = "solana_swarm"
+path = "examples/solana_swarm.rs"
